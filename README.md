@@ -1,6 +1,6 @@
-# QuranApp models
+# Quran app models
 
-Models used by QuranApp, a free Quran app for iPhone, iPad, Mac and Android.
+Models for a free Quran app in development (iPhone, iPad, Mac and Android). The app isn't released yet.
 
 ## Khutbah captions: Arabic FastConformer, fine-tuned on Friday khutbahs (round 2)
 
@@ -21,4 +21,4 @@ Live Arabic captions of Friday khutbahs, recognised on the device.
 
 On five held-out real khutbahs (first 20 minutes each): 14.2% for the base model, 11.5% for this one.
 
-**Licence:** CC BY 4.0, as a modified version of NVIDIA's model. Credit NVIDIA, and QuranApp for the fine-tuning.
+**Licence:** CC BY 4.0, as a modified version of NVIDIA's model. Credit NVIDIA for the base model.
